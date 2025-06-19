@@ -16,8 +16,10 @@ export default function Home() {
           <h1 className="text-3xl font-bold text-gray-800">Tanawong Koudkitkan</h1>
           <p className="text-blue-500 text-lg mt-1">Full Stack Developer</p>
           <p className="mt-4 text-gray-600">
-            Experienced in building modern web applications with React, Node.js, and Next.js.
-            Focused on performance, scalability, and clean code architecture.
+            Hello, my name is Thanawong Kuatkitkan.
+            My nickname is Boom. I am 21 years old and was born on January 12, 2004.
+            I enjoy eating and watching movies.
+            Currently, I am pursuing a Bachelor's degree in the Faculty of Science and Digital Innovation, majoring in Computer Science.
           </p>
         </div>
       </div>
